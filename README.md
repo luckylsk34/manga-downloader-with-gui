@@ -1,6 +1,7 @@
 # manga-downloader-with-gui
 
 run installer(...).py
+
 then run manga_downloader(...)(...).py
 
 
