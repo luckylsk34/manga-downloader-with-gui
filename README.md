@@ -1,4 +1,7 @@
 # manga-downloader-with-gui
 
-just a pet-project to learn, to help me download any manga i want, easy to use, comes with gui
+tested on ubuntu LTS-16.04.2(works perfectly)
 
+mostly works on linux distributions
+
+maynot work on windows
